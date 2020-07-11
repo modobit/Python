@@ -1,6 +1,10 @@
 # Python
 
-#python-tutorials
+## Python Books
+https://realpython.com/best-python-books/
+
+## python-tutorials
+
 * [Beginner's Delight](#beginners-delight)
 * [Style Guide and Idioms](#style-guide-and-idioms)
 * [Dictionary](#dictionary)
