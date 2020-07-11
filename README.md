@@ -1,4 +1,4 @@
-# Python Playground :shipit:
+# Python Playground
 
 
 ## Python Books
