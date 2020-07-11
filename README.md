@@ -3,6 +3,9 @@
 ## Python Books
 https://realpython.com/best-python-books/
 
+## Visulization 
+https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed
+
 ## python-tutorials
 
 * [Beginner's Delight](#beginners-delight)
