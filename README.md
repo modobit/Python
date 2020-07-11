@@ -1,4 +1,5 @@
 # Python Playground
+The source code for my experiments, tutorials with openshift
 
 
 ## Python Books
