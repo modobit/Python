@@ -71,7 +71,7 @@ https://realpython.com/best-python-books/
 * [Miscellaneous](#miscellaneous)
 
 
-##Beginner's Delight
+## Beginner's Delight
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
@@ -112,12 +112,12 @@ https://realpython.com/best-python-books/
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
-##Dictionary
+## Dictionary
 * [Python hash, id and dictionary order](http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order)
 * [Notes on dictionary implementation](http://bugs.python.org/file6941/dictnotes.txt)
 * [Python: The Dictionary Playbook](http://blog.amir.rachum.com/post/39501813266/python-the-dictionary-playbook)
 
-##Decorators
+## Decorators
 * [Understanding Python Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 * [Common uses of Python decorators - Quora](http://www.quora.com/Python-programming-language-1/What-are-common-uses-of-Python-decorators)
 * [Common uses of Python decorators - Stack Overflow](http://stackoverflow.com/questions/489720/what-are-some-common-uses-for-python-decorators)
@@ -131,17 +131,17 @@ https://realpython.com/best-python-books/
 * [How can I make a chain of function decorators in Python?](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
 * [The Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary)
 
-##Generators
+## Generators
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
 * [Delegating to a Subgenerator in Python 3](http://docs.python.org/3/whatsnew/3.3.html#pep-380-syntax-for-delegating-to-a-subgenerator)
 
-##Iterators
+## Iterators
 * [Understanding Iterators and Iterables](http://www.shutupandship.com/2012/01/understanding-python-iterables-and.html)
 
-##Yield
+## Yield
 * [Python yield keyword explained](http://stackoverflow.com/questions/231767/the-python-yield-keyword-explained)
 
-##Context Managers
+## Context Managers
 * [Understanding Python's with statement](http://effbot.org/zone/python-with-statement.htm)
 * [The Python "with" Statement by Example](http://preshing.com/20110920/the-python-with-statement-by-example/)
 
@@ -151,15 +151,15 @@ https://realpython.com/best-python-books/
 * [Python encodings and Unicode](http://eric.themoritzfamily.com/python-encodings-and-unicode.html)
 * [The Updated Guide to Unicode on Python](http://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
 
-##Networking
+## Networking
 * [An intro to Python socket network programming](http://freepythontips.wordpress.com/2013/08/06/python-socket-network-programming/)
 
-##Metaclasses
+## Metaclasses
 * [A primer on python metaclasses](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
 * [What is a metaclass in Python ?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 * [Yet Another Python Metaclass tutorial](http://blog.fruiapps.com/2013/03/Yet-another-Python-MetaClass-Tutorial)
 
-##Documentation
+## Documentation
 * [Documentation is King](http://kennethreitz.org/documentation-is-king/)
 * [Make your open source project documentation suck less](http://kirang89.webfactional.com/2013/05/07/make-your-open-source-project-documentation-suck-less/)
 
@@ -176,14 +176,14 @@ https://realpython.com/best-python-books/
 * [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
 * [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito)
 
-##Debugging
+## Debugging
 * [Debugging Tools in Python](http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/)
 * [Debugging Python Like a Boss](https://zapier.com/engineering/debugging-python-boss/)
 
-###Logging
+## Logging
 * [Sentry - realtime event logging and aggregation platform](https://sentry.readthedocs.org/en/latest/index.html)
 
-##Testing
+## Testing
 * [Nose Introduction](http://pythontesting.net/framework/nose/nose-introduction/)
 * [Unittest Introduction](http://pythontesting.net/framework/unittest/unittest-introduction/)
 * [How To Use Coverage.py With Unittest](https://github.com/audreyr/how-to/blob/master/python/use_coverage_with_unittest.rst)
@@ -205,14 +205,14 @@ https://realpython.com/best-python-books/
 * [Py2app: Standalone Mac OS X applications](http://pythonhosted.org/py2app/)
 * [PyInstaller: Stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX](http://www.pyinstaller.org/)
 
-##Deployment
+## Deployment
 * [Solid Python Deployments for Everybody](http://hynek.me/talks/python-deployments)
 
-###Fabric
+### Fabric
 * [Using Fabric in a development environment](http://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-a-development-environment/)
 * [Capture output from parallel execution with Fabric](http://dmsimard.com/2013/11/29/capture-output-from-parallel-execution-with-fabric/)
 
-##Warts and Gotchas
+## Warts and Gotchas
 * [Python 2.x gotcha's and landmines](http://stackoverflow.com/questions/530530/python-2-x-gotchas-and-landmines)
 * [Python Warts](https://wiki.python.org/moin/PythonWarts)
 * [Python Gotchas](http://blog.artlogic.com/2013/04/12/python-gotchas/)
@@ -221,8 +221,8 @@ https://realpython.com/best-python-books/
 ##Web
 * [Python and Realtime Web](http://mrjoes.github.io/2013/06/21/python-realtime.html)
 
-###Frameworks
-####Flask
+## Frameworks
+### Flask
 * [Flask Mega Tutorial Series](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask)
@@ -233,7 +233,7 @@ https://realpython.com/best-python-books/
 * [How to Build an API with Python and Flask](http://tech.pro/tutorial/1213/how-to-build-an-api-with-python-and-flask)
 * [Create a Simple Music Streaming App with Flask](http://pypix.com/python/create-simple-music-streaming-app-flask/)
 
-####Web2Py
+## Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
 
 ####Django
