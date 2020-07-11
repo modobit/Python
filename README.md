@@ -1,5 +1,10 @@
 # Python Playground
+```
+> python me.py
+> Hello World
+```
 The source code for my experiments, tutorials with openshift
+
 
 
 ## Python Books
@@ -10,6 +15,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 
 ## python-tutorials
 
+* [makeareadme.com](https://www.makeareadme.com/)
 * [Beginner's Delight](#beginners-delight)
 * [Style Guide and Idioms](#style-guide-and-idioms)
 * [Dictionary](#dictionary)
