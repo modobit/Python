@@ -128,7 +128,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [No Naked Excepts](http://www.wilfred.me.uk/blog/2013/11/03/no-naked-excepts/)
 * [Supercharge Your Python Developers](http://www.jeffknupp.com/blog/2013/11/15/supercharge-your-python-developers/)
 
-##Style Guide and Idioms
+## Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
@@ -165,7 +165,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Understanding Python's with statement](http://effbot.org/zone/python-with-statement.htm)
 * [The Python "with" Statement by Example](http://preshing.com/20110920/the-python-with-statement-by-example/)
 
-##Unicode
+## Unicode
 * [Explain Unicode like I'm five years old](http://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/)
 * [Unicode Pain](http://nedbatchelder.com/text/unipain.html)
 * [Python encodings and Unicode](http://eric.themoritzfamily.com/python-encodings-and-unicode.html)
@@ -213,7 +213,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 ## Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
 
-##Packaging
+## Packaging
 * [The Hitchhiker’s Guide to Packaging](http://guide.python-distribute.org/)
 * [Sharing Your Labor of Love: PyPI Quick And Dirty](http://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/)
 * [Open Sourcing a Python Project the Right Way](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
@@ -238,7 +238,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Python Gotchas](http://blog.artlogic.com/2013/04/12/python-gotchas/)
 * [Common Pitfalls in Python](http://stackoverflow.com/questions/1011431/common-pitfalls-in-python/1321075#1321075)
 
-##Web
+## Web
 * [Python and Realtime Web](http://mrjoes.github.io/2013/06/21/python-realtime.html)
 
 ## Frameworks
@@ -281,19 +281,19 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 ### Web Servers
 * [A Comparison of Web Servers for Python Based Web Applications](https://www.digitalocean.com/community/articles/a-comparison-of-web-servers-for-python-based-web-applications)
 
-###API and Web Services
+### API and Web Services
 * [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
 * [Python API for various web services](http://www.pythonapi.com/)
 * [Glassdoor API](https://github.com/hackerlist/glassdoor)
 
-###Scraping
+### Scraping
 * [Web Scraping with BeautifulSoup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
 * [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
 * [Web Scraping with Scrapy Framework](http://doc.scrapy.org/en/latest/intro/tutorial.html)
 * [How to automatically search and download torrents with Python and Scrapy](http://fuzz-box.blogspot.in/2013/03/how-to-automatically-search-download-torrent-python-scrapy.html)
 
-##Mobile Development
-###Kivy
+## Mobile Development
+### Kivy
 * [Creating an app in Kivy](http://archlinux.me/dusty/2013/06/13/creating-an-application-in-kivy-part-1/)
 
 ## Google Glass
