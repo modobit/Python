@@ -13,6 +13,15 @@ https://realpython.com/best-python-books/
 ## Visulization 
 https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed
 
+# Documentation
+* [Daux.io](https://dauxio.github.io/)
+* [Docusaurus](https://docusaurus.io/)
+* [GitBook](https://www.gitbook.com/)
+* [MkDocs](https://www.mkdocs.org/)
+* [Read the Docs](https://readthedocs.org/)
+* [ReadMe](https://readme.io/)
+* [Slate](https://github.com/lord/slate)
+
 ## python-tutorials
 
 * [makeareadme.com](https://www.makeareadme.com/)
@@ -201,7 +210,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
 * [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 
-##Profiling
+## Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
 
 ##Packaging
@@ -262,14 +271,14 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Scaling database with Django and HAProxy](http://engineering.hackerearth.com/2013/10/07/scaling-database-with-django-and-haproxy/)
 * [Classy Class-Based Views](http://ccbv.co.uk/)
 
-####Bottle
+#### Bottle
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
 
-####Tornado
+#### Tornado
 * [Tornado official documentation](http://www.tornadoweb.org/en/stable/documentation.html)
 * [Fastest database for Tornado](http://www.peterbe.com/plog/fastestdb)
 
-###Web Servers
+### Web Servers
 * [A Comparison of Web Servers for Python Based Web Applications](https://www.digitalocean.com/community/articles/a-comparison-of-web-servers-for-python-based-web-applications)
 
 ###API and Web Services
@@ -287,15 +296,15 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 ###Kivy
 * [Creating an app in Kivy](http://archlinux.me/dusty/2013/06/13/creating-an-application-in-kivy-part-1/)
 
-##Google Glass
-###Resources
+## Google Glass
+### Resources
 * [The official Python Quick Start for Google Glass](https://developers.google.com/glass/quickstart/python)
 
-###Libraries
+### Libraries
 ####glass.py
 * [Create python web applications for Google Glass](https://github.com/SamyPesse/glass.py)
 
-##Image Processing
+## Image Processing
 * [Python Image Library - Examples](http://www.riisen.dk/dop/pil.html)
 
 ##GUI Programming
@@ -307,30 +316,30 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Pytkgen: JSON to Tkinter GUI Generator](https://github.com/tmetsch/pytkgen)
 * [Intro to programming with Python and Tkinter](https://wiki.python.org/moin/Intro%20to%20programming%20with%20Python%20and%20Tkinter)
 
-##Android
-###SL4A
+## Android
+### SL4A
 * [Making the Physics Gizmo app for Android using SL4A](http://www.brokenairplane.com/2011/08/im-not-texting-im-programming.html)
 
-##WSGI
+# #WSGI
 * [Getting started with WSGI](http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/)
 * [WSGI Basics](http://agiliq.com/blog/2013/07/basics-wsgi/)
 
-##Databases
+## Databases
 
-###SQLAlchemy
+### SQLAlchemy
 * [SQLAlchemy](http://www.aosabook.org/en/sqlalchemy.html)
 * [SQLAlchemy and you](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
 
-##Data Mining
+## Data Mining
 * [Linux system mining using Python](http://architects.dzone.com/articles/linux-system-mining-python)
 
-##Data Analysis
-###Pandas
+## Data Analysis
+### Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Pandas and Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
-###IPython Notebooks
+### IPython Notebooks
 * [The Traveling Salesperson Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb)
 * [Scientific Computing with Python](http://nbviewer.ipython.org/url/atwallab.cshl.edu/teaching/QBbootcamp3.ipynb)
 * [Gaussian Blur](http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/GaussianBlur.ipynb)
@@ -349,7 +358,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
    * [Feature Detection and Matching for Images](http://www.mat.ucsb.edu/201A/console/Feature_detection.html)
    * [Gestures](http://www.mat.ucsb.edu/201A/console/Gestures.html)
 
-##Design Patterns
+## Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
 * [28 Design Patterns in Python and Several Other Languages](https://github.com/oxnz/design-patterns)
 * [Factory Pattern In Python](http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
@@ -373,8 +382,8 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [How CherryPy supports Python 2 and 3](http://pyvideo.org/video/689/how-cherrypy-supports-python-2-and-3)
 * [Porting to Python 3 - The Book Site](http://python3porting.com/)
 
-##Books
-###Free
+## Books
+### Free
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
@@ -387,16 +396,16 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 
-###Paid
+### Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
 * [Porting to Python 3 - The Book Site](http://python3porting.com/)
 
-##Online Courses and Challenges
+## Online Courses and Challenges
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
 
-##Discussions
+## Discussions
 * [What's your favorite programming language?](https://news.ycombinator.com/item?id=3746692)
 * [What is your primary programming language?](https://news.ycombinator.com/item?id=5944863)
 * [StackOverflow - Python beyond the basics](http://stackoverflow.com/questions/92230/python-beyond-the-basics)
@@ -409,7 +418,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Lanyrd - Python Conference and Events](http://lanyrd.com/topics/python/)
 * [Meetup.com - Python Meetup Groups](http://python.meetup.com/)
 
-##Videos
+## Videos
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
 * [PyVideo](http://pyvideo.org/)
 * [Khan Academy - Introduction to programming and computer science using Python](https://www.khanacademy.org/science/computer-science)
@@ -419,7 +428,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [The newboston site tutorial](http://thenewboston.org/list.php?cat=36)
 
-##Editors and IDE's for Python programming
+## Editors and IDE's for Python programming
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 * [Sublime Text 2 Love by Kenneth Reitz](http://kennethreitz.org/sublime-text-2-love/)
 * [Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
@@ -431,17 +440,17 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Emacs setup for python development environment](http://caisah.info/emacs-for-python/)
 * [Emacs for python](https://github.com/gabrielelanaro/emacs-for-python)
 
-##BigData
+## BigData
 * [Mind map of Python for Big Data](http://www.xmind.net/m/WvfC/?goback=%2Emid_I2756675707*43_*1#%21)
 
-##Curated Python resources from other websites
+## Curated Python resources from other websites
 * [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
 
-##Newsletters
+## Newsletters
 * [Pycoder's](http://pycoders.com/)
 * [Python Weekly](http://www.pythonweekly.com/)
 
-##Miscellaneous
+## Miscellaneous
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
 * [What are some good Python interview questions ?](http://www.quora.com/What-are-good-Python-interview-questions)
