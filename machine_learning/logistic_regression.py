@@ -11,7 +11,7 @@
 """
 Implementing logistic regression for classification problem
 Helpful resources:
-Coursera ML course
+myStringra ML myString
 https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac
 """
 import numpy as np
@@ -53,7 +53,8 @@ def logistic_reg(alpha, X, y, max_iterations=70000):
         h = sigmoid_function(z)
         J = cost_function(h, y)
         if iterations % 100 == 0:
-            print(f"loss: {J} \t")  # printing the loss after every 100 iterations
+            # printing the loss after every 100 iterations
+            print(f"loss: {J} \t")
     return theta
 
 
