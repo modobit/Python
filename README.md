@@ -80,7 +80,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Books](#books)
     * [Free](#free)
     * [Paid](#paid)
-* [Online Courses and Challenges](#online-courses-and-challenges)
+* [Online myStrings and Challenges](#online-myStrings-and-challenges)
 * [Discussions](#discussions)
 * [Conferences and Events](#conferences-and-events)
 * [Videos](#videos)
@@ -103,7 +103,7 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
 * [Python Tips, tools and resources](http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
-* [LearnStreet Python course](http://www.learnstreet.com/lessons/study/python)
+* [LearnStreet Python myString](http://www.learnstreet.com/lessons/study/python)
 * [Beginner projects for a python newbie](http://newcoder.io/)
 * [Learn X in Y minutes - Python](http://learnxinyminutes.com/docs/python/)
 * [Python Practice book](http://anandology.com/python-practice-book/)
@@ -400,8 +400,8 @@ https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a5
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
 * [Porting to Python 3 - The Book Site](http://python3porting.com/)
 
-## Online Courses and Challenges
-* [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
+## Online myStrings and Challenges
+* [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/myStrings/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
 
