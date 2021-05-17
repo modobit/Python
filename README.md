@@ -10,6 +10,7 @@
 - [Sample CSV](https://wsform.com/knowledgebase/sample-csv-files/)
 
 ## The Python Language
+- [Python for Everybody (PY4E)](https://www.py4e.com/lessons)
 - [Python 3 in one picture](https://fossbytes.com/wp-content/uploads/2015/09/python-3-in-one-pic.png)
 - [**Awesome Python**](https://github.com/vinta/awesome-python)
 - [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
